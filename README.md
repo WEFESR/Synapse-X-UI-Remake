@@ -5,7 +5,7 @@ First ever release to public for the synapse x ui developed by maritarziu on you
 <img width="952" height="447" alt="image" src="https://github.com/user-attachments/assets/3d673349-6425-4981-916d-a131e1e8ab19" />
 
 
-API for execution is using Saturn API [https://discord.gg/MTMhZXm6Bb]
+Use any other api cuz lazy to add one!
 
 created in C# .NET 
 
