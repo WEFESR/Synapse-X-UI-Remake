@@ -2,7 +2,8 @@ Pls dont skid this and sell it to other ppl🚩
 
 First ever release to public for the synapse x ui developed by maritarziu on youtube✌️
 
-<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/497bf9b7-0b5f-4fb5-94bb-e7739ae1579d" />
+<img width="952" height="447" alt="image" src="https://github.com/user-attachments/assets/3d673349-6425-4981-916d-a131e1e8ab19" />
+
 
 API for execution is using Saturn API [https://discord.gg/MTMhZXm6Bb]
 
