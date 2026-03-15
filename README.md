@@ -13,10 +13,6 @@ created in C# .NET
 
 📌 Links:
 
-🧠 x.com: x.com/mari_tarziu
+🌐 e-z.bio: https://e-z.bio/wefesr
 
-🌐 e-z.bio: e-z.bio/maritarziu
 
-💬 Discord: discord.gg/FKPWzJkxZf
-
-🎵 TikTok: tiktok.com/@maritarziu3074
